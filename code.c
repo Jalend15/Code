@@ -1,0 +1,8 @@
+#include<stdio.h>
+void main()
+{
+int x
+int y
+printf("%d", pow(x,y));
+}
+
